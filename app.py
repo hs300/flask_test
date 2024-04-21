@@ -26,11 +26,6 @@ def show_post(post_id):
     }
 
 
-def wanger():
-    return 'wang er'
 
 
-with app.test_request_context():
-    print("xxx")
-    print(url_for('/hello'))
 
