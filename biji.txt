@@ -4,6 +4,8 @@ https://dormousehole.readthedocs.io/en/latest/installation.html#python
 
 https://blog.csdn.net/abc19991119/article/details/132392863
 
+https://geek-docs.com/python/python-dictionary-tutorials/106_basic_operations_of_python_dictionaries.html
+
 
 
 
